@@ -1,0 +1,214 @@
+{
+  "products": [
+    {
+      "name": "Desk Lamp",
+      "description": "Made from high-quality fabric and metal, this desk lamp allows for many years of durable and reliable use. It features a foam-padded seat that ensures maximum comfort and warmth.",
+      "photo": "https://images.unsplash.com/photo-1601642964568-1917224f4e4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZGVzayUyMGxhbXB8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "quantity": 20,
+      "price": 199,
+      "salePercentage": "20%",
+      "discount": "$99",
+      "color": "White Light",
+      "warranty": "Warranty 1-year",
+      "rating": "https://t4.ftcdn.net/jpg/00/34/26/15/360_F_34261597_ry3LcKpaoZ6fYRtNvuxlItQVEsKQoNjV.jpg",
+      "relatedImg1": "https://enarat.com/wp-content/uploads/2020/07/1090032521189037A-scaled-600x600.jpg",
+      "relatedImg2": "https://enarat.com/wp-content/uploads/2020/07/1090032521189155-scaled-600x600.jpg",
+      "relatedImg3": "https://i.pinimg.com/originals/dc/85/9c/dc859c6bbbfb16b3bc6455b97c3e6361.jpg",
+      "id": 1
+    },
+    {
+      "name": "Arm Chair",
+      "description": "Made from high-quality fabric and metal, this arm chair allows for many years of durable and reliable use. It features a foam-padded seat that ensures maximum comfort and warmth.",
+      "photo": "https://www.atkinandthyme.co.uk/media/catalog/product/cache/ff4df62209228869e2d6e438912332e8/3/_/3_1.jpg",
+      "quantity": 0,
+      "price": 100,
+      "salePercentage": "20%",
+      "discount": "$99",
+      "color": "Green mixed with Brown Oak",
+      "warranty": "Warranty 1-year",
+      "rating": "https://pbats.com/wp-content/uploads/2021/07/fivestars.jpeg",
+      "relatedImg1": "https://assets.loaf.com/images/scrummy_550x550/3231873-schnaps-armchair.jpg",
+      "relatedImg2": "https://i5.walmartimages.com/asr/c1c44fbc-369b-41f2-a465-22cc656d5068.f7dd106b1b79cd7abfaf48a5a933ddcf.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+      "relatedImg3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3kxPSR19zt60AluWwJPrXgUU7XtodzRohDg&usqp=CAU",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Table",
+      "description": "Made from high-quality fabric and metal, this table allows for many years of durable and reliable use. It features a foam-padded seat that ensures maximum comfort and warmth.",
+      "photo": "https://sazfurniture.co.uk/wp-content/uploads/2018/04/dario-EzoCn-yj8jo-unsplash.png",
+      "quantity": 8,
+      "discount": "$99",
+      "salePercentage": "20%",
+      "price": 150,
+      "color": "Light Brown with 6 White Chairs",
+      "warranty": "Warranty 1-year",
+      "rating": "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
+      "relatedImg1": "https://assets.pbimgs.com/pbimgs/rk/images/dp/wcm/202148/0051/malcolm-round-nesting-coffee-tables-c.jpg",
+      "relatedImg2": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dw04b3c19c/images/600000/606028.jpg?sfrm=jpg",
+      "relatedImg3": "https://cdn.eichholtz.com/media/catalog/product/cache/62a0001ba384dd559aac2c6dd8434b29/1/1/113299.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bed",
+      "description": "Made from high-quality fabric and metal, this bed allows for many years of durable and reliable use. It features a foam-padded seat that ensures maximum comfort and warmth.",
+      "photo": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dw5bb15688/images/1170000/1178752.jpg?sw=1200",
+      "quantity": 5,
+      "discount": "$99",
+      "salePercentage": "20%",
+      "price": 800,
+      "color": "Grey Oak",
+      "warranty": "Warranty 1-year",
+      "rating": "https://t4.ftcdn.net/jpg/00/34/26/15/360_F_34261597_ry3LcKpaoZ6fYRtNvuxlItQVEsKQoNjV.jpg",
+      "relatedImg1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLJfiTTWrY9T5O9EcfeWb-SEbzilyI9RgRcj8NBVh3cqNupSgBuQrqLRZ6oglaxhjBnqE&usqp=CAU",
+      "relatedImg2": "https://www.bedsdivans.co.uk/wp-content/uploads/2019/09/Ambassador-Bed.png",
+      "relatedImg3": "https://pyxis.nymag.com/v1/imgs/f4a/c81/9f0e0e5b9cb8b9c73c2e8da1ff53de5624-PC-platform-beds-lede.2x.rsocial.w600.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sofas",
+      "description": "Made from high-quality fabric and metal, this sofa allows for many years of durable and reliable use. It features a foam-padded seat that ensures maximum comfort and warmth.",
+      "photo": "https://www.godrejinterio.com/imagestore/B2C/56101502SD00944/56101502SD00944_01_803x602.png",
+      "quantity": 0,
+      "discount": "$99",
+      "salePercentage": "20%",
+      "price": 860,
+      "color": "Black mixed with OffWhite",
+      "warranty": "Warranty 1-year",
+      "rating": "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
+      "relatedImg1": "https://cdn.shopify.com/s/files/1/0531/5962/4900/products/collar2-seater_600x.png?v=1615814320",
+      "relatedImg2": "https://img.edilportale.com/product-thumbs/b_QUILTON-3-seater-sofa-Hay-572155-rel85176676.jpeg",
+      "relatedImg3": "https://cdn.darlingsofchelsea.co.uk/media/catalog/product/t/h/thatcham-grand-sofa-camb_1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Cabinet",
+      "description": "Made from high-quality fabric and metal, this cabinet allows for many years of durable and reliable use. It features a foam-padded seat that ensures maximum comfort and warmth.",
+      "photo": "https://sanyang.com.ph/wp-content/uploads/2020/06/111124-Angle.jpg",
+      "quantity": 0,
+      "discount": "$99",
+      "salePercentage": "20%",
+      "price": 250,
+      "color": "Brown with Silver handles",
+      "warranty": "Warranty 1-year",
+      "rating": "https://previews.123rf.com/images/barks/barks1712/barks171200371/91718841-%C3%ADcone-de-classifica%C3%A7%C3%A3o-de-cinco-estrelas-3-5-.jpg",
+      "relatedImg1": "https://www.ikea.com/eg/en/images/products/havsta-cabinet-dark-brown__0625438_pe692264_s5.jpg?f=s",
+      "relatedImg2": "https://images.unsplash.com/photo-1616464916265-68fc457bdc70?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2FiaW5ldHxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "relatedImg3": "https://hnsgsfp.imgix.net/9/images/detailed/63/Nihan_Cabinet_-_2.png?fit=fill&bg=0FFF&w=1536&h=900&auto=format,compress"
+    }
+  ],
+  "Cart": [],
+  "categories": [
+    {
+      "id": 7,
+      "image": "https://static.vitra.com/media/asset/2048109/storage/v_fullbleed_1440x/30196853.jpg",
+      "title": "Table",
+      "price": "$189",
+      "discount": "$99",
+      "salePercentage": "20%"
+    },
+    {
+      "id": 8,
+      "image": "https://www.ezlivingfurniture.ie/media/catalog/product/1/2/125145_1_green-velvet-armchair-bronx-125145-power-shot.jpg",
+      "title": "Arm Chair",
+      "price": "$189",
+      "discount": "$99",
+      "salePercentage": "20%"
+    },
+    {
+      "id": 9,
+      "image": "https://cdn.shopify.com/s/files/1/0119/1222/products/Anglepoise-Type-75-Desk-Lamp-Ochre-Yellow-1_600x600@2x.jpg?v=1629663635",
+      "title": "Desk Lamp",
+      "price": "$189",
+      "discount": "$99",
+      "salePercentage": "20%"
+    },
+    {
+      "id": 10,
+      "image": "https://sanyang.com.ph/wp-content/uploads/2020/06/111124-Angle.jpg",
+      "title": "Cabinet",
+      "price": "$189",
+      "discount": "$99",
+      "salePercentage": "20%"
+    },
+    {
+      "id": 11,
+      "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dw5bb15688/images/1170000/1178752.jpg?sw=1200",
+      "title": "Bed",
+      "price": "$189",
+      "discount": "$99",
+      "salePercentage": "20%"
+    },
+    {
+      "id": 12,
+      "image": "https://www.godrejinterio.com/imagestore/B2C/56101502SD00944/56101502SD00944_01_803x602.png",
+      "title": "Sofas",
+      "price": "$189",
+      "discount": "$99",
+      "salePercentage": "20%"
+    }
+  ],
+  "features": [
+    {
+      "id": 13,
+      "image": "https://previews.123rf.com/images/gongzstudio/gongzstudio1401/gongzstudio140100128/25515503-worldwide-shipping-with-globe-icon-format.jpg",
+      "title": "Free Shipping WorldWide"
+    },
+    {
+      "id": 14,
+      "image": "https://www.seekpng.com/png/full/73-733715_30-day-money-back-guarantee-transparent-30-days.png",
+      "title": "Money Back Guarntee"
+    },
+    {
+      "id": 15,
+      "image": "https://media.gettyimages.com/photos/roundtheclock-service-icon-picture-id873960210?b=1&k=20&m=873960210&s=170667a&w=0&h=h-qNhdYUvHLn2S725MIVM7COwWLhKhXfQdt7Fr-wuO8=",
+      "title": "24/7 Help Center"
+    }
+  ],
+  "users": [
+    {
+      "name": "Mayar",
+      "email": "mayar@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "name": "Menna",
+      "email": "menna@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "name": "Nada",
+      "email": "Nada@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "name": "Nadeen",
+      "email": "Nadeen@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "name": "Nouran",
+      "email": "nouran123@gmail.com",
+      "password": "@1234567",
+      "id": 5
+    },
+    {
+      "name": "Noura",
+      "email": "noura123@gmail.com",
+      "password": "@12345679",
+      "id": 6
+    },
+    {
+      "name": "Manar",
+      "email": "manar@gmail.com",
+      "password": "1234567",
+      "id": 7
+    },
+    {
+      "name": "Mariam",
+      "email": "mariam@gmail.com",
+      "password": "1234567",
+      "id": 8
+    }
+  ]
+}
